@@ -1,0 +1,46 @@
+{
+    "user": [
+        {
+            "id": 1,
+            "name": "Zannatul",
+            "email": "zannatul123@gmail.com",
+            "website": "zanntul.com",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSByVjBTwRINSOePwmji3EYb_8pNugi8IYQsw&s"
+        },
+        {
+            "id": 2,
+            "name": "Habiba",
+            "email": "habiba123@gmail.com",
+            "website": "habiba.com",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSByVjBTwRINSOePwmji3EYb_8pNugi8IYQsw&s"
+        },
+        {
+            "id": 3,
+            "name": "Sydur",
+            "email": "sydur123@gmail.com",
+            "website": "sydur.com",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSByVjBTwRINSOePwmji3EYb_8pNugi8IYQsw&s"
+        },
+        {
+            "id": 4,
+            "name": "Farah",
+            "email": "farah123@gmail.com",
+            "website": "farahl.com",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSByVjBTwRINSOePwmji3EYb_8pNugi8IYQsw&s"
+        },
+        {
+            "id": 5,
+            "name": "Sydur",
+            "email": "sydur123@gmail.com",
+            "website": "sydur.com",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSByVjBTwRINSOePwmji3EYb_8pNugi8IYQsw&s"
+        },
+        {
+            "id": 6,
+            "name": "Farah",
+            "email": "farah123@gmail.com",
+            "website": "farahl.com",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSByVjBTwRINSOePwmji3EYb_8pNugi8IYQsw&s"
+        }
+    ]
+}
