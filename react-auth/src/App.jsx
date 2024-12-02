@@ -4,6 +4,7 @@ import Signup from "./pages/Signup";
 import Profile from "./pages/Profile";
 import { createContext, useState } from "react";
 import PrviateRoute from "./components/shared/PrviateRoute";
+import Home from "./pages/Home";
 
 export const UserContext = createContext();
 
@@ -14,6 +15,7 @@ function App() {
   return (
     <UserContext.Provider value={{ token, setToken }}>
       <Routes>
+        <Route path="/" element={<Home />}></Route>
         <Route path="/sign-in" element={<SignIn />}></Route>
         <Route path="/sign-up" element={<Signup />}></Route>
         <Route
